@@ -1,4 +1,4 @@
-# Bonjour, je suis Émile Lefort
+# Bonjour, je suis Émile!
 
 Étudiant en **génie informatique** à l'Université de Sherbrooke (1re année, 3e trimestre), à la recherche d'un **stage en informatique pour l'automne 2026**.
 
