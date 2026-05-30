@@ -2,7 +2,7 @@
 
 Étudiant en **génie informatique** à l'Université de Sherbrooke (1re année, 3e trimestre), à la recherche d'un **stage en informatique pour l'automne 2026**.
 
-Mon intérêt se porte particulièrement vers l'**intelligence artificielle appliquée**, l'**automatisation** et la **cybersécurité**, des domaines dans lesquels je souhaite bâtir ma carrière.
+Mon intérêt se porte particulièrement vers l'**intelligence artificielle appliquée**, l'**automatisation** , le **hardware** et la **cybersécurité**.
 
 ---
 
