@@ -55,6 +55,3 @@ Mon intérêt se porte particulièrement vers l'**intelligence artificielle appl
 - [miloulef17@gmail.com](mailto:miloulef17@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/emile-lefort)
 
----
-
-*Ouvert aux opportunités de stage en développement logiciel, IA et cybersécurité pour l'automne 2026.*
