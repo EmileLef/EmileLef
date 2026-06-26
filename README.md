@@ -52,6 +52,6 @@ Mon intérêt se porte particulièrement vers l'**intelligence artificielle appl
 
 ## Me contacter
 
-- [miloulef17@gmail.com](mailto:miloulef17@gmail.com)
+- [emilelefort17@gmail.com](mailto:emilelefort17@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/emile-lefort)
 
